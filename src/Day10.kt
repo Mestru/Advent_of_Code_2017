@@ -1,5 +1,6 @@
 import java.io.File
 
+
 fun main(args: Array<String>) {
     // part 1
     var circularList = (0..255).toMutableList()
